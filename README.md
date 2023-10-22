@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 
 ### Hi there 👋
+
+![](https://komarev.com/ghpvc/?username=kenguyenduc)
 - 👋 I’m @kenguyenduc 🇻🇳🇻🇳🇻🇳
 - 🌱 I'm a Mobile Application Developer.
 - 👀 I’m interested in coding and exploring new things ☕⚡🧑‍💻
